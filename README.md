@@ -4,7 +4,7 @@
 ## 前言 ##
 服务于班组,工友,考勤等云服务功能。
 
-[线上地址](https://www.elaow.com/)   
+[线上地址](https://www.buildonclodu.cn/)   
 
 ## 安装步骤 ##
 	git clone https://github.com/Jiaweiaa/buildoncloudWeb.git		// 把模板下载到本地
