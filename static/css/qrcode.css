@@ -1,0 +1,8 @@
+body{
+  color: #fff!important;
+}
+.impowerBox .qrcode {width: 200px; margin-top: 0!important;}
+.impowerBox .title {display: none;}
+.impowerBox .info {width: 200px;}
+.status_icon {display: none}
+.impowerBox .status {text-align: center;}
